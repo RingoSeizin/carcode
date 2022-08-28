@@ -3,8 +3,8 @@ from time import sleep
 
 in1 = 24
 in2 = 23
-in3 = 5
-in4 = 6
+in3 = 22
+in4 = 17
 en = 25
 temp1=1
 
