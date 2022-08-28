@@ -2,8 +2,8 @@ import RPi.GPIO as GPIO
 from time import sleep
 
 
-in3 = 5
-in4 = 6
+in3 = 17
+in4 = 22
 en = 25
 temp1=1
 
